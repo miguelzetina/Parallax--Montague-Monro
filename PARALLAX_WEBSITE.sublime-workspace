@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"rgb",
+				"rgba()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "boxy",
+		"selected_items":
+		[
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"contorl",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/PARALLAX_WEBSITE",
+		"/D/PARALLAX_WEBSITE/css",
+		"/D/PARALLAX_WEBSITE/img",
+		"/D/PARALLAX_WEBSITE/js"
+	],
+	"file_history":
+	[
+		"/D/PARALLAX_WEBSITE/css/style.css",
+		"/D/PARALLAX_WEBSITE/index.html",
+		"/D/PARALLAX_WEBSITE/js/main.js",
+		"/D/PARALLAX_SYTE/js/main.js",
+		"/D/PARALLAX_SYTE/css/style.css",
+		"/D/PARALLAX_SYTE/css/style.scss",
+		"/D/PARALLAX_SYTE/index.html",
+		"/D/PERSONAL-WEB/index.html",
+		"/D/PARALLAX_SYTE/img/down-arrow.jpg",
+		"/D/PARALLAX_SYTE/js/jquery.stellar.min.js",
+		"/D/PARALLAX_SYTE/js/waypoint.js",
+		"/D/PARALLAX_SYTE/js/waypoints.js",
+		"/C/Users/Mike_Zetina/Desktop/waypoints-aa31522976ba87030e0366cc1f209d1d3781810c/waypoints-aa31522976ba87030e0366cc1f209d1d3781810c/waypoints.js",
+		"/C/Users/Mike_Zetina/Desktop/waypoint.js",
+		"/D/SYTE_PARALLAX-Montague Monro/js/waypoints.js",
+		"/D/SYTE_PARALLAX-Montague Monro/js/jquery.easing.js",
+		"/D/SYTE_PARALLAX-Montague Monro/css/style.scss",
+		"/D/SYTE_PARALLAX-Montague Monro/css/style.css",
+		"/D/SYTE_PARALLAX-Montague Monro/index.html",
+		"/D/SYTE_PARALLAX-Montague Monro/js/jquery.stellar.min.js",
+		"/D/SYTE_PARALLAX-Montague Monro/js/main.js",
+		"/D/PERSONAL-WEB/css/style.css",
+		"/D/PERSONAL-WEB/style.css",
+		"/C/Users/Mike_Zetina/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 147.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PARALLAX_WEBSITE.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
